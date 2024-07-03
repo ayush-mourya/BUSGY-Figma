@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mobile application is designed to improve the experience of traveling by Delhi Transport Corporation (DTC) and cluster scheme buses. The app addresses the lack of proper tools for tracking bus routes, schedules, and ticket booking.
+This mobile application is designed to improve the experience of traveling by Delhi Transport Corporation (DTC) and cluster scheme buses.
 
 ## Problem Statement
 
