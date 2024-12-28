@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mobile application is designed to improve the experience of traveling by Delhi Transport Corporation (DTC) and cluster scheme buses.
+This mobile application prototype is designed to improve the experience of traveling by Delhi Transport Corporation (DTC) and cluster scheme buses.
 
 ## Problem Statement
 
@@ -13,7 +13,7 @@ This mobile application is designed to improve the experience of traveling by De
 ## Personal Experience
 
 - We have frequently used DTC buses for commuting to our coaching institutes and understand the frustration of waiting for buses without knowing their arrival times.
-- This inspired us to develop a mobile application to help users check bus timings, find the right bus numbers, and book tickets online.
+- This inspired us to develop a mobile application prototype to help users check bus timings, find the right bus numbers, and book tickets online.
 
 ## Features
 
@@ -53,4 +53,4 @@ This mobile application is designed to improve the experience of traveling by De
 
 ## Conclusion
 
-We believe that through a thorough application of interaction design principles, this app will provide a simple, effective, and user-friendly solution to the challenges faced by DTC bus commuters in Delhi.
+We believe that through a thorough application prototype of interaction design principles, this app will provide a simple, effective, and user-friendly solution to the challenges faced by DTC bus commuters in Delhi.
