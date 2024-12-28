@@ -54,3 +54,5 @@ This mobile application prototype is designed to improve the experience of trave
 ## Conclusion
 
 We believe that through a thorough application prototype of interaction design principles, this app will provide a simple, effective, and user-friendly solution to the challenges faced by DTC bus commuters in Delhi.
+
+[Link for the final Figma HiFi Prototype](https://www.figma.com/proto/PfC5tSYHlGHyTxBrlDegS2/HCI-PROJECT?node-id=4-31&starting-point-node-id=4%3A31&t=iBgEIwg6G7SJQMZ0-1)
